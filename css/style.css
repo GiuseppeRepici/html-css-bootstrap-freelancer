@@ -50,6 +50,8 @@ img{
     margin: 0 auto;
 }
 
+
+
 .cont1 p{
     border-bottom: 2px black solid;
     padding: 5px;
@@ -57,4 +59,8 @@ img{
 
 .color1{
     background-color: green;
+}
+
+.font1{
+    font-size: 10px;
 }
