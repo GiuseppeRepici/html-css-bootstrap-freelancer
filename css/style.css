@@ -10,7 +10,9 @@
     justify-content: space-between;
 }
 
-
+.menu-container{
+    display: none;
+}
 
 img{
     display: block;
@@ -73,7 +75,8 @@ img{
     .col-4{
         flex-basis: 50%;
     }
-
+    
+    
 
 }
 
@@ -89,6 +92,37 @@ img{
         flex-basis: 100%;
     }
 
+    .right-h {
+        display: none;
+    }
+
+    .menu-container {
+        margin-left: 0;
+        position: relative;
+        display: block;
+      }
     
+      .menu-container ul {
+        display: flex;    
+        display: none;
+        position: absolute;
+        right: 15px;
+        top: 31px;
+        background-color: white;
+        
+      }
+  
+      ul{
+          list-style: none;
+      }
+  
+      .menu-container:hover ul {
+          display: block;
+          display: inline;
+        }
+    
+      .menu-container .separator {
+        margin-right: auto;
+      }
 
 }
