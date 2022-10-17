@@ -1,5 +1,5 @@
 .red{
-    background-color: rgba(216, 29, 29, 0.45);
+    background-color: rgb(216, 29, 29);
 }
 
 .blue{
@@ -21,4 +21,15 @@ img{
 
 .a11{
     margin-top: 5px;
+}
+
+.cont{
+    width: auto;
+}
+
+#img11{
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
 }
