@@ -64,3 +64,30 @@ img{
 .font1{
     font-size: 10px;
 }
+
+
+
+
+@media screen and (max-width: 950px) {
+    
+
+
+    .col-4{
+        flex-basis: 50%;
+    }
+
+}
+
+@media screen and (max-width: 600px) {
+    
+
+
+    .col-4{
+        flex-basis: 90%;
+    }
+
+    .col{
+        flex-basis: 100%;
+    }
+
+}
