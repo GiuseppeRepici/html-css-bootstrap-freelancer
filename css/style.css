@@ -41,3 +41,12 @@ img{
 .centro{
     margin-left: 27vw;
 }
+
+.cont1 p{
+    border-bottom: 2px black solid;
+    padding: 5px;
+}
+
+.color1{
+    background-color: green;
+}
