@@ -19,12 +19,18 @@ img{
     margin: 0 auto;
 }
 
+.row h1 , .row h5{
+    text-align: center;
+}
+
+
 .a11{
     margin-top: 5px;
 }
 
 .cont{
     width: auto;
+    margin: 0 auto;
 }
 
 #img11{
@@ -36,10 +42,12 @@ img{
 
 .mwi{
     width: 60vw;
+    margin: 0 auto;
 }
 
-.centro{
-    margin-left: 27vw;
+.autom{
+    display: block;
+    margin: 0 auto;
 }
 
 .cont1 p{
