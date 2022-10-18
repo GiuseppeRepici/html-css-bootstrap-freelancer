@@ -1,11 +1,16 @@
-.red{
-    background-color: rgb(216, 29, 29);
+.head1{
+    background-color: rgba(58,84,109,255);
 }
 
-.blue{
-    background-color: green;
+.foot1{
+    background-color: rgba(44,62,80,255);
 }
 .colore11{
+    color: white;
+}
+
+.colorebv{
+    background-color: rgba(26,188,156,255);
     color: white;
 }
 
@@ -64,9 +69,7 @@ img{
     padding: 5px;
 }
 
-.color1{
-    background-color: green;
-}
+
 
 .font1{
     font-size: 10px;
