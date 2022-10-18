@@ -28,9 +28,11 @@ img{
     text-align: center;
 }
 
-
+.linea{
+    border-bottom: 1px solid black;
+}
 .a11{
-    margin-top: 5px;
+    margin-top: 13px;
 }
 
 .cont{
